@@ -56,7 +56,7 @@
                                 <color key="backgroundColor" systemColor="systemTealColor" red="0.35294117650000001" green="0.7843137255" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="trailing" secondItem="aUV-kC-qAU" secondAttribute="trailing" constant="8" id="2x1-Yf-bWj"/>
-                                    <constraint firstItem="TjQ-GX-Lhd" firstAttribute="leading" secondItem="RQm-J2-H2I" secondAttribute="leading" constant="118" id="4SC-hu-uph"/>
+                                    <constraint firstItem="TjQ-GX-Lhd" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="RQm-J2-H2I" secondAttribute="leading" constant="20" symbolic="YES" id="4SC-hu-uph"/>
                                     <constraint firstItem="ghp-8q-Giv" firstAttribute="top" secondItem="RQm-J2-H2I" secondAttribute="top" constant="15" id="71v-Ks-FjO"/>
                                     <constraint firstItem="fp9-dc-wyC" firstAttribute="top" secondItem="ghp-8q-Giv" secondAttribute="bottom" constant="21" id="ABc-JB-myR"/>
                                     <constraint firstItem="ghp-8q-Giv" firstAttribute="leading" secondItem="RQm-J2-H2I" secondAttribute="leading" constant="8" id="CDx-2k-awx"/>
